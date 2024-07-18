@@ -7,13 +7,26 @@
     "development:simulator": {
       "developmentClient": true,
       "distribution": "internal",
+      "android": {
+        "image": "latest",
+        "simulator": true
+      },
       "ios":{
+        "image": "latest",
         "simulator": true
       }
     },
     "development": {
       "developmentClient": true,
-      "distribution": "internal"
+      "distribution": "internal",
+      "android": {
+        "image": "latest",
+        "simulator": true
+      },
+      "ios": {
+        "image": "latest",
+        "simulator": true
+      }
     },
     "preview": {
       "distribution": "internal"
