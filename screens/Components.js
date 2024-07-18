@@ -46,7 +46,7 @@ export default class Components extends React.Component {
           </Block>
           <Block center>
             <Button shadowless color="success" style={[styles.button, styles.shadow]}>
-              SUCCESS
+              SUCCESS block
             </Button>
           </Block>
           <Block center>
