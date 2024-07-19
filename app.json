@@ -20,7 +20,8 @@
       "package": "com.sagritechnologies.materialkit"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/accf8f3a-9325-4f5e-be0e-e95f06676645"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -32,6 +33,10 @@
       "eas": {
         "projectId": "accf8f3a-9325-4f5e-be0e-e95f06676645"
       }
+    },
+    "owner": "mohammed_aq",
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
